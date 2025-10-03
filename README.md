@@ -1,13 +1,29 @@
-<div align="center">
+---
+description: Welcome to the Wave Documentation site!
+cover: .gitbook/assets/Wave_Banner_Discord.gif
+coverY: 0
+---
 
-# 🌊 Official Wave Documentation
+# 👋 Introduction
 
-[![Docs](https://img.shields.io/badge/docs-gitbook-blue?style=for-the-badge\&logo=gitbook)](https://duckys-playground.gitbook.io/wave)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+{% hint style="success" %}
+[getwave.gg](https://getwave.gg) is our one and only official web domain.
+{% endhint %}
 
-Welcome to the official documentation for **Wave**.
-Click the badge above or the link below to explore the full docs.
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
 
-👉 [**Read the Documentation on GitBook**](https://duckys-playground.gitbook.io/wave)
+{% content-ref url="functions/" %}
+[functions](functions/)
+{% endcontent-ref %}
 
-</div>
+{% content-ref url="libraries/" %}
+[libraries](libraries/)
+{% endcontent-ref %}
+
+{% content-ref url="credits.md" %}
+[credits.md](credits.md)
+{% endcontent-ref %}
+
+## Wave | Documentation
