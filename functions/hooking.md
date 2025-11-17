@@ -78,7 +78,7 @@ description: These are all of the functions revolving hooking that Wave supports
 ```
 {% endcode %}
 
-* Checks if `level` originates from the executor’s environment.
+* Checks the entire callstack to see if it is from Wave or Roblox.
 
 ***
 
